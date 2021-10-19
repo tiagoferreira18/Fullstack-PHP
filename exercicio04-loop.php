@@ -20,11 +20,8 @@
 
     hr{
       margin-top :50px;
-      max-width: 600px;
-          
+      max-width: 600px;     
     }
-
-    
     caption{
       text-align:left;
       font-weight: bold;
@@ -50,7 +47,6 @@
       color: white;
     }
 
-    
   </style>
 </head>
 <body>
